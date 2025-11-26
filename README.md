@@ -20,6 +20,6 @@ To run the codes, you'll need the following dependencies:
 - Ubuntu
 - Scipy
 
-  We have also utilized the following library in our study:
+ ## Running the codes 
 
 Codes will be updated soon
