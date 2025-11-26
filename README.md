@@ -14,7 +14,7 @@ GPU-Accelerated MPC."**
   ## General Requirements
 
 To run the codes, you'll need the following dependencies:
-- ROS (Only for visualization)
+- ROS2 (Only for visualization)
 - Numpy
 - Jax-Numpy (https://github.com/google/jax)
 - Ubuntu
