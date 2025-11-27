@@ -22,7 +22,7 @@ To run the codes, you'll need the following dependencies:
 
  ## Running the codes 
 
- - To obtain the waypoints, please refer to our previous work, \url{https://github.com/arunkumar-singh/GPU-Multi-Agent-Traj-Opt}, follow the read me, and save the waypoints as .npy
+ - To obtain the waypoints, please refer to our previous work, (https://github.com/arunkumar-singh/GPU-Multi-Agent-Traj-Opt), follow the read me, and save the waypoints as .npy
  - 
 
 Codes will be updated soon
