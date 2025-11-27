@@ -19,10 +19,12 @@ To run the codes, you'll need the following dependencies:
 - Jax-Numpy (https://github.com/google/jax)
 - Ubuntu
 - Scipy
+- RVO2, Download the version that is in 3d and in C++ (https://gamma.cs.unc.edu/RVO2/)
 
  ## Running the codes 
 
- - To obtain the waypoints, please refer to our previous work, (https://github.com/arunkumar-singh/GPU-Multi-Agent-Traj-Opt), follow the read me, and save the waypoints as .npy
- - 
+ - To obtain the waypoints, please refer to our previous work, (https://github.com/arunkumar-singh/GPU-Multi-Agent-Traj-Opt), follow the readme, and save the waypoints as .npy
+ - Run main_local_planner.py for each configuration.
+ - Visualization has been done using ROS2 in RVIZ.
 
 Codes will be updated soon
