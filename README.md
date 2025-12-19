@@ -8,6 +8,8 @@ GPU-Accelerated MPC."**
 - [General Requirements](#General-Requirements)
 - [Executing Codes ](#Codes)
 
+![Demo](assests/demo.gif)
+
   ## Contacts
 - Fatemeh Rastgar (fatemeh.rastgar2@gmail.com)
 
